@@ -1,0 +1,48 @@
+@media screen  and (max-width: 800px){
+    .navigation{
+        flex-direction: column;
+        margin-bottom: 23px;
+    }
+
+.nav-left{
+    flex-direction: column;
+    text-align: center;
+}
+.content-right{
+    display: none;
+}
+.home-artical{
+    flex-direction: column;
+}
+.home-artical-img{
+    text-align: center;
+    width: 70vw;
+}
+.form-input{
+    width: 50%;
+}
+ .content-left h1{
+    font-size: 23px;
+}
+.form-box input{
+    width: 285px;
+}
+.form-box textarea{
+    width: 218px;
+    height: 36vh;
+}
+.row{
+    flex-direction: column;
+}
+.post-img{
+    height: auto;
+}
+.post-img img{
+    padding-left: 10px;
+    height: 370px;
+}
+.social{
+    padding: 0px;
+}
+
+}
